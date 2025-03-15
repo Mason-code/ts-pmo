@@ -1,0 +1,14 @@
+C:\Dev\limbo\Walnut\Walnut\Platform\GUI\Walnut\ApplicationGUI.cpp;C:\Dev\limbo\bin-int\Debug-windows-x86_64\Walnut\ApplicationGUI.obj
+C:\Dev\limbo\Walnut\Walnut\Platform\GUI\Walnut\ImGui\ImGuiBuild.cpp;C:\Dev\limbo\bin-int\Debug-windows-x86_64\Walnut\ImGuiBuild.obj
+C:\Dev\limbo\Walnut\Walnut\Platform\GUI\Walnut\ImGui\ImGuiTheme.cpp;C:\Dev\limbo\bin-int\Debug-windows-x86_64\Walnut\ImGuiTheme.obj
+C:\Dev\limbo\Walnut\Walnut\Platform\GUI\Walnut\Image.cpp;C:\Dev\limbo\bin-int\Debug-windows-x86_64\Walnut\Image.obj
+C:\Dev\limbo\Walnut\Walnut\Platform\GUI\Walnut\Input\Input.cpp;C:\Dev\limbo\bin-int\Debug-windows-x86_64\Walnut\Input.obj
+C:\Dev\limbo\Walnut\Walnut\Platform\GUI\Walnut\UI\Console.cpp;C:\Dev\limbo\bin-int\Debug-windows-x86_64\Walnut\Console.obj
+C:\Dev\limbo\Walnut\Walnut\Platform\GUI\Walnut\UI\UI.cpp;C:\Dev\limbo\bin-int\Debug-windows-x86_64\Walnut\UI.obj
+C:\Dev\limbo\Walnut\Walnut\Source\Walnut\Core\Log.cpp;C:\Dev\limbo\bin-int\Debug-windows-x86_64\Walnut\Log.obj
+C:\Dev\limbo\Walnut\Walnut\Source\Walnut\Random.cpp;C:\Dev\limbo\bin-int\Debug-windows-x86_64\Walnut\Random.obj
+C:\Dev\limbo\Walnut\Walnut\Source\Walnut\Serialization\BufferStream.cpp;C:\Dev\limbo\bin-int\Debug-windows-x86_64\Walnut\BufferStream.obj
+C:\Dev\limbo\Walnut\Walnut\Source\Walnut\Serialization\FileStream.cpp;C:\Dev\limbo\bin-int\Debug-windows-x86_64\Walnut\FileStream.obj
+C:\Dev\limbo\Walnut\Walnut\Source\Walnut\Serialization\StreamReader.cpp;C:\Dev\limbo\bin-int\Debug-windows-x86_64\Walnut\StreamReader.obj
+C:\Dev\limbo\Walnut\Walnut\Source\Walnut\Serialization\StreamWriter.cpp;C:\Dev\limbo\bin-int\Debug-windows-x86_64\Walnut\StreamWriter.obj
+C:\Dev\limbo\Walnut\Walnut\Source\Walnut\Utils\StringUtils.cpp;C:\Dev\limbo\bin-int\Debug-windows-x86_64\Walnut\StringUtils.obj
